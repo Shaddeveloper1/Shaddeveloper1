@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shad
-- 👀 I’m interested in FastAPI,Django, Power Apps, APIs ,Java Script, React JS 
+- 👀 I’m interested and work in ,Django, Power Apps, APIs ,Java Script, React JS,HTMl,CSS, NodeJS,React, WordPress
 - 🌱 I’m currently learning ... AI creation Database
 - 💞️ I’m freelance working on App creation on Power Apps and Django, React JS ...
+- Strategy using CICD Pipelines
 - 📫 How to reach me ... Every day is new to Learn.. Knowledege is Power never Ends
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

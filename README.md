@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shad
-- 👀 I’m interested and work in ,Django, Power Apps, APIs ,Java Script, React JS,HTMl,CSS, NodeJS,React, WordPress
+- 👀 I’m interested and work in ,Django, Power Apps, APIs (REST,GraphQL,MangoDB) ,Java Script, React JS,HTMl,CSS, NodeJS,WordPress(Elemantor)
 - 🌱 I’m currently learning ... AI creation Database
 - 💞️ I’m freelance working on App creation on Power Apps and Django, React JS ...
 - Strategy using CICD Pipelines
